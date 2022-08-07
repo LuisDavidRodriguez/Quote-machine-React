@@ -1,4 +1,4 @@
-# Project-1 FreeCodeCamp certification project
+# React Project1 FreeCodeCamp certification.
 ### Description:
 This project is a quote machine you can see 20 different quotes and tweet them!!
 
