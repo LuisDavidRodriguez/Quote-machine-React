@@ -1,3 +1,20 @@
+# Project-1 FreeCodeCamp certification project
+### Description:
+This project is a quote machine you can see 20 different quotes and tweet them!!
+
+### The original project was built in [codePen](https://codepen.io/Luis-David-RodriguezV/pen/BarrzGZ)
+
+
+![image](https://user-images.githubusercontent.com/105079888/183312023-e09687e2-3231-4211-884c-efd34505e5b6.png)
+
+![image](https://user-images.githubusercontent.com/105079888/183311976-65d56cdb-5d95-4ccc-bc27-161613a42b47.png)
+
+![image](https://user-images.githubusercontent.com/105079888/183312035-ca624783-a469-4313-b7af-c7c973205c78.png)
+![image](https://user-images.githubusercontent.com/105079888/183312060-6b03e876-b5ac-4283-ad37-66d2843ce183.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
